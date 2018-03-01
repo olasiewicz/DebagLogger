@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'MyApplication1'" />
-    <option name="defaultScopeName" value="Project 'MyApplication1'" />
+    <option name="customScope" value="File '[app] - ...\app\src\main\java\wojtek\library\com\myfirstlibw\MainActivity.java'" />
+    <option name="defaultScopeName" value="File '[app] - ...\app\src\main\java\wojtek\library\com\myfirstlibw\MainActivity.java'" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'MyApplication1'" />
+    <option name="SEARCH_SCOPE" value="File '[app] - ...\app\src\main\java\wojtek\library\com\myfirstlibw\MainActivity.java'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
