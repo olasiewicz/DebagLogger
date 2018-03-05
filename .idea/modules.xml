@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/LibsWojtekExample.iml" filepath="$PROJECT_DIR$/LibsWojtekExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/debugloglibrary/debugloglibrary.iml" filepath="$PROJECT_DIR$/debugloglibrary/debugloglibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/errorlib/errorlib.iml" filepath="$PROJECT_DIR$/errorlib/errorlib.iml" />
     </modules>
   </component>
 </project>
